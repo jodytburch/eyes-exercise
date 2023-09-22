@@ -16,4 +16,4 @@ This project displays two eyes on a webpage, and when you move the mouse around 
 - Allow user to change the color of the eyes on the page.
 
 ## License Information:
-**See "LICENSE" file**
+**Go to: [LICENSE](./LICENSE)**
