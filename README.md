@@ -8,8 +8,9 @@ This project displays two eyes on a webpage, and when you move the mouse around 
 
 ## How to Run
 1. Fork this repo.
-2. Open in, or drag/drop the index.html file onto, a browser window.
-3. Move your mouse and see the eyes follow!
+2. Go to the folder on your local machine.  
+3. Drag/drop the index.html file onto, a browser window.
+4. Move your mouse to see the eyes follow your cursor!
 
 ## Roadmap of Future Enhancements
 - Allow user to add more eyes to the page.
